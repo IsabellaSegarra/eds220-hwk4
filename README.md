@@ -2,7 +2,7 @@
 
 Author: *Isabella Segarra*
 
-![Map of Palisades and Eaton fires](eds220-hwk4/fire_map.png)
+![Map of Palisades and Eaton fires](https://github.com/IsabellaSegarra/eds220-hwk4/blob/main/fire_map.png)
 
 ## About
 This repository's purpose is for exploring satellite and perimeter data for the 2025 Palisades and Eaton fires.
