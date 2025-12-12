@@ -1,25 +1,29 @@
-# Visualizing the Palisades and Eaton fires with false color imagery 
+# Visualizing the Palisades and Eaton Fires  
 
 Author: *Isabella Segarra*
 
-![Map of Palisades and Eaton fires](https://github.com/IsabellaSegarra/eds220-hwk4/blob/main/fire_map.png)
+![Map of Palisades and Eaton fires]()
 
 ## About
-This repository's purpose is for exploring satellite and perimeter data for the 2025 Palisades and Eaton fires.
+This repository's purpose is for exploring satellite and perimeter data for the 2025 Palisades and Eaton fires. This analysis is part of **EDS 220: Working with Environmental Datasets** at the Bren School of Environmental Science and Management.
+
+To view `eaton-palisades-blog.ipynb` as a blog post, [navigate to my website!]()
 
 This repository includes the following structure: 
 
 ```
-eds220-hwk4
+eaton-palisades-fires-impacts
 |-- README.md
-|-- hwk4-task2-false-color-segarra.ipynb
+|-- visualize-fire-maps.ipynb
+|-- social-impacts-fires.ipynb
+|-- eaton-palisades-blog.ipynb
 |-- fire_map.png
 |-- .gitignore
 
 ``` 
 
 ## Data access
-The data for this project includes Landsat data accessed through the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2). The other datasets include fire perimeter data from [Fire permimeter data](https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). In order to access the Landsat data, ensure your computer environment has netCDF4 or install with the following [documentation](https://unidata.github.io/netcdf4-python/#:~:text=Quick%20Install,HDF5%20or%20the%20PnetCDF%20library.). Socieoeconmic data includes the [Environmental Justice Index] (https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) dataset. To access this dataset, navigate to the website, choose '2024' as the year and 'geodatabase' as the data format. 
+The data for this project includes Landsat data accessed through the [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2). The other datasets include fire perimeter data from [Fire permimeter data](https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about). In order to access the Landsat data, ensure your computer environment has netCDF4 or install with the following [documentation](https://unidata.github.io/netcdf4-python/#:~:text=Quick%20Install,HDF5%20or%20the%20PnetCDF%20library.). Socieoeconmic data includes the [Environmental Justice Index] (https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html) dataset. To access this dataset, navigate to the website, choose '2024' as the year and 'geodatabase' as the data format. All data for this project was added to the .gitignore. 
 
 ## Refrences 
 
@@ -30,4 +34,11 @@ Los Angeles County/ NIFC FIRIS. (2025). Palisades_and_Eaton_Dissolved_Fire_Perim
  Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6 
 
  Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [Year] Environmental Justice Index. [Date of Access: November 21 2025]. https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html
+
+ Riebeek, H. (2014, March 4). Why is that forest red and that cloud blue? NASA Earth Observatory. https://earthobservatory.nasa.gov/features/FalseColor 
+
+ CBS News. (2025, March 18). Older L.A. wildfire victims struggle to pick up the pieces. CBS News. https://www.cbsnews.com/news/elderly-los-angeles-wildfire-victims/
+
+ ## Acknowledgements
+ I would like to acknowledge Dr. Carmen Galaz García and Dr. Annie Adams for their creation and development of this project.
 
