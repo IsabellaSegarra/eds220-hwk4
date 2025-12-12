@@ -27,5 +27,7 @@ Los Angeles County/ NIFC FIRIS. (2025). Palisades_and_Eaton_Dissolved_Fire_Perim
 
  U.S. Geological Survey. Landsat Collection 2 Level-2 Surface Reflectance (Microsoft Planetary Computer version)_[data file] Available: https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2#overview [Date of Access: November 17 2025]
 
+ Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. https://doi.org/10.5066/P9OGBGM6 
+
  Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [Year] Environmental Justice Index. [Date of Access: November 21 2025]. https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html
 
