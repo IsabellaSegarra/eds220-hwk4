@@ -7,7 +7,7 @@ Author: *Isabella Segarra*
 ## About
 This repository's purpose is for exploring satellite and perimeter data for the 2025 Palisades and Eaton fires. This analysis is part of **EDS 220: Working with Environmental Datasets** at the Bren School of Environmental Science and Management.
 
-To view `eaton-palisades-blog.ipynb` as a blog post, [navigate to my website!]()
+To view `eaton-palisades-blog.ipynb` as a blog post, [navigate to my website!](https://isabellasegarra.github.io/posts/2025-12-03-eds220-blog/eaton-palisades-blog.html)
 
 This repository includes the following structure: 
 
